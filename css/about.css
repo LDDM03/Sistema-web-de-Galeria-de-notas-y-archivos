@@ -1,0 +1,61 @@
+html{
+	
+	position: relative;
+}
+
+body{
+
+	margin: 0;
+	margin-bottom: 40px;
+/*	max-width: 100%; 
+*//*	background-image: url("/fondo.png");
+*/	background-attachment: fixed;
+	background-position: top right;
+	background-repeat: no-repeat;
+	background-color: blue;
+}
+
+h1 {
+color: blue;
+text-align: center;
+font-family: cursive;
+padding: 18px 0 18px 0;
+margin: 0 0 10px 0;
+
+}
+
+p{
+	text-align: center;
+	font-family: cursive;
+	padding: 0;
+	margin: 0;
+
+}
+
+
+ .section{
+	border: 3px solid #20bcd5;
+	background-color: #f3f3f3;
+	padding: 10px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+}
+
+
+
+.copy{
+
+border: 3px solid #fff;
+background-color: black;
+padding: 5px;
+margin-bottom: 5px;
+border-radius: 5px;	
+}
+.copy p {
+	color : white;
+}
+
+
+
+
+
